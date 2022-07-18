@@ -13,3 +13,17 @@ NOTE:
 
 *Suby don't support http, https or www
 
+INSTALLATION:
+
+$ pkg upgrade && pkg update
+
+$ pkg install python3
+
+$ pkg install pip
+
+$ termux-setup-storage 
+
+$ cd /storage/downloads
+
+
+
