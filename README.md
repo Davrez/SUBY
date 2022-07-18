@@ -25,5 +25,13 @@ $ termux-setup-storage
 
 $ cd /storage/downloads
 
+$ git clone https://github.com/Davrez/SUBY.git 
+
+$ cd SUBY
+
+$ pip install -r requirements.txt 
+
+$ python3 suby.py example.com
+
 
 
